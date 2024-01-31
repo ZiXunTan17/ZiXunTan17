@@ -1,7 +1,13 @@
-### Hi there 👋
+# Hi there 👋 Welcome to Zi Xun's GitHub Profile.
+- 🔭 I’m currently an AI Intern at Wallstabe & Schneider.
+- 🌱 I’m interested in Machine Learning and Data Science.
+- 📫 How to reach me: zi-xun.tan@wallstabe-schneider.de
+
+<a href="https://www.linkedin.com/in/zi-xun-tan/"><img src="https://res.cloudinary.com/importdata/image/upload/v1595012354/linkedin_t9qiwy.png" alt="drawing" width="100"/> &nbsp;&nbsp;&nbsp;&nbsp;
+
 
 <!--
-**ZiXunTan17/ZiXunTan17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Gary0417/Gary0417** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
